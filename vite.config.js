@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react';
 // The site is hosted at: https://santhosh-0301.github.io/CampusHub/
 export default defineConfig({
   plugins: [react()],
-  base: '/CampusHub/',
+  base: '/CampusHub-2.0/',
 });
